@@ -17,6 +17,9 @@ miniArm
    docs/4.knob_control.md
    docs/5.app_control.md
    docs/6.motion_control_basic_course.md
+   docs/7.secondary_development_course.md
+   docs/8.ai_vision_game_course.md
+   docs/9.serial_communication_instruction.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1BZGN0L9LzIaRhDFuovlSq18GpnKPrgyk?usp=sharing>
 
